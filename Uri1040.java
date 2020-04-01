@@ -12,8 +12,8 @@ public class Main {
         double N3 = sc.nextDouble();
         double N4 = sc.nextDouble();
 
-        double total = N1 + N2 + N3 + N4;
-        double media = total/4;
+        double total = (N1*2) + (N2*3) + (N3*4) + (N4*1);
+        double media = total/10;
 
         if(media >= 7){
             System.out.println("Media " + media);

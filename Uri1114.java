@@ -10,7 +10,7 @@ public class Main {
         int senha = sc.nextInt();
 
         while (senha != 2002){
-            System.out.println("senha invaida");
+            System.out.println("senha invalida");
             senha = sc.nextInt();
         }
 

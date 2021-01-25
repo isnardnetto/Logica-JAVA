@@ -14,7 +14,8 @@ public class Exercicio2 {
 		
 		int numero = sc.nextInt();
 		
-		System.out.println("O número informado foi " + numero );
+		System.out.println("O número informado foi: " + numero );
+
 
 	}
 
